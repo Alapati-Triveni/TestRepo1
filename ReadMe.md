@@ -1,2 +1,2 @@
-# Hello World2.
-Afternoon session1
+Hello World2.
+Afernoon session
